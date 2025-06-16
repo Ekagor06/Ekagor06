@@ -1,6 +1,6 @@
 ### Hi there 👋, i' m Ekaterina
 #### 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐌𝐆𝐓𝐔 | 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯 
-![𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐌𝐆𝐓𝐔 | 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯 ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐌𝐆𝐓𝐔 | 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯 ](https://m.media-amazon.com/images/M/MV5BZDU5ZGQ5MWItMzdmZC00YWJkLWIzNjMtMzU2ZDJjOWQzYWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
 🚀 Go Backend Dev | Bauman University  
 
